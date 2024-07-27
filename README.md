@@ -1,5 +1,3 @@
-# Desafio-Intemediario-da-DIO-GFT-05-Cofres-Seguros-Dominando-o-Encapsulamento-e-Abstracao
-
 # <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Desafio Intermediário da DIO GFT 05 - Cofres Seguros: Dominando o Encapsulamento e Abstração
 
 
